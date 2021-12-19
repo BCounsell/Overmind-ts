@@ -1,0 +1,55 @@
+{
+  "name": "overmind-todomvc-typescript",
+  "version": "0.1.0",
+  "private": true,
+  "main": "src/index.tsx",
+  "dependencies": {
+    "classnames": "^2.2.6",
+    "overmind": "28.0.0",
+    "overmind-react": "29.0.0",
+    "page": "^1.11.4",
+    "react": "^16.8.6",
+    "react-dom": "^16.8.6",
+    "react-scripts": "^3.0.1",
+    "todomvc-app-css": "^2.2.0",
+    "todomvc-common": "^1.0.5",
+    "tslib": "1.10.0",
+    "typescript": "3.5.3"
+  },
+  "devDependencies": {
+    "@types/classnames": "^2.2.9",
+    "@types/page": "^1.8.0",
+    "@types/react": "^16.8.6",
+    "@types/react-dom": "^16.8.4",
+    "@typescript-eslint/eslint-plugin": "^1.12.0",
+    "@typescript-eslint/parser": "^1.12.0",
+    "eslint-config-prettier": "^6.0.0",
+    "eslint-plugin-react": "^7.14.2",
+    "eslint-plugin-react-hooks": "^1.6.1",
+    "prettier": "^1.18.2",
+    "typescript": "^3.3.3"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test",
+    "eject": "react-scripts eject"
+  },
+  "eslintConfig": {
+    "extends": "react-app"
+  },
+  "browserslist": {
+    "production": [
+      ">0.2%",
+      "not dead",
+      "not op_mini all"
+    ],
+    "development": [
+      "last 1 chrome version",
+      "last 1 firefox version",
+      "last 1 safari version"
+    ]
+  },
+  "keywords": [],
+  "description": ""
+}
